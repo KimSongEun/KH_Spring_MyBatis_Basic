@@ -5,7 +5,7 @@
 		<setting name="jdbcTypeForNull" value="NULL"/>
 	</settings>
 	<typeAliases>
-		<typeAlias type="com.mycompany.myapp06.member.model.vo.Member" alias="Member"/>
+		<typeAlias type="com.mycompanny.morning.member.model.vo.Member" alias="Member"/>
 	</typeAliases>
 	<mappers>
 		<mapper resource="mappers/member-mapper.xml"/>

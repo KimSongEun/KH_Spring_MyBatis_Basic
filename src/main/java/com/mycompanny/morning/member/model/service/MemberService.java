@@ -1,12 +1,13 @@
-package com.mycompany.myapp06.member.model.service;
+package com.mycompanny.morning.member.model.service;
 
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.mycompany.myapp06.member.model.dao.MemberDao;
-import com.mycompany.myapp06.member.model.vo.Member;
+import com.mycompanny.morning.member.model.dao.MemberDao;
+import com.mycompanny.morning.member.model.vo.Member;
+
 
 @Service("memberService")
 public class MemberService {

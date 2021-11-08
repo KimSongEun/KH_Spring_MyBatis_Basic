@@ -1,4 +1,4 @@
-package com.mycompany.myapp06;
+package com.mycompanny.morning;
 
 import java.text.DateFormat;
 import java.util.Date;

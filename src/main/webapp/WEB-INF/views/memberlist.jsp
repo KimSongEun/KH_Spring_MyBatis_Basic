@@ -4,10 +4,9 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>멤버 확인하기</title>
 </head>
 <body>
-<h1> member list </h1>
-${mlist }
+${memberlist }
 </body>
 </html>

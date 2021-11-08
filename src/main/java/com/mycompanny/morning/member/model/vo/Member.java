@@ -1,4 +1,4 @@
-package com.mycompany.myapp06.member.model.vo;
+package com.mycompanny.morning.member.model.vo;
 
 import java.sql.Date;
 
